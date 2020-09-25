@@ -1,0 +1,35 @@
+
+https://www.youtube.com/redirect?q=https%3A%2F%2Fgithub.com%2Faccimeesterlin%2Fmernapp_youtube&redir_token=QUFFLUhqbVgtbkotUjdDRXJxRks3VWdKZ0laVi0wWGF4QXxBQ3Jtc0tuSDVpaHBCS0kzc2s3YkhFR2Q0NUw5LXJ0SHl3OE1NRGVxMlgzMDhwMGtvdHRLVG8wRlIxSEJ6LWc3MlBVaWhyTlZoVG0xRzdCNlpKNWpzZFpsZk8yb2lJTVhkTjBTQW4taTZ1RW13bllMVlJCVmZZZw%3D%3D&event=video_description&v=1REonFsWBbY
+
+---MERN application crash course
+https://www.youtube.com/playlist?list=PLurIMwd6GdCj_VlnKVceR66Sxfcb37VU8
+
+Project folder: F:\BT-Data\Learning\Technology\mern-app
+
+
+Install node
+Install NPM
+Install Nodemon
+Install Create-React-App
+
+ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+ 
+ --Creating a react app
+Create-React-App Client
+cd Client
+
+--start the react app
+npm start
+
+--Initialize Node Js App
+cd mern-app
+npm init -y
+
+--Install required node packages
+--morgan is used http request logging
+--concurrently is used to run client and server concurrently
+npm install mongoose express axios morgan concurrently -S
+
+
+
+
